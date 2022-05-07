@@ -1,1 +1,1 @@
-Einsendung zur 2. Runde des 39. Bundeswettbewerbs Informatik
+Einsendung zur 2. Runde des 38. Bundeswettbewerb Informatik
