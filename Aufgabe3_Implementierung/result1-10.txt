@@ -1,0 +1,18 @@
+Die durch den Nutzer gegebene maximale Verlängerung beträgt 10%.
+Der kürzeste Weg hat eine Länge von 17.1224.
+Der ausgegeben Weg darf also eine maximale Länge von 18.8347 haben.
+
+Der Weg mit der geringsten Anzahl an Abbiegevorgängen hat eine Länge von 19.1224 und 5 Abbiegevorgänge.
+Der kürzeste Weg hat 8 Abbiegevorgänge.
+
+Beim für Bilal empfohlenen Weg werden folgende Knoten in dieser Reihenfolge besucht: 
+(0,0)
+(2,0)
+(1,1)
+(2,1)
+(2,0)
+(7,2)
+(14,3)
+(14,2)
+(14,1)
+(14,0)
