@@ -1,0 +1,4 @@
+Für die gegeben Batterieverteilung gibt es eine Lösung!
+
+Von seinem Startfeld aus bewegt sich der Roboter folgendermaßen: 
+Die verbleibende Restladung beträgt 20.

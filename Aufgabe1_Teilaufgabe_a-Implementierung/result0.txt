@@ -1,0 +1,8 @@
+Für die gegeben Batterieverteilung gibt es eine Lösung!
+
+Von seinem Startfeld aus bewegt sich der Roboter folgendermaßen: 
+Der Roboter läuft zur Batterie auf dem Feld (5,4) mit 3 Schritten.
+Der Roboter läuft zur Batterie auf dem Feld (5,1) mit 3 Schritten.
+Der Roboter läuft zur Batterie auf dem Feld (5,4) mit 3 Schritten.
+Der Roboter läuft zur Batterie auf dem Feld (1,2) mit 6 Schritten.
+Die verbleibende Restladung beträgt 2.
